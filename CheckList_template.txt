@@ -1,0 +1,4 @@
+Procedure
+Expected result
+Pass/Fail
+Actual results/Comments
